@@ -8,6 +8,26 @@ I build web applications with a focus on **maintainable architecture, dependable
 
 ---
 
+## Technologies I work with
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite" />
+</p>
+
+**Backend & databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis&theme=dark" alt="Node.js, NestJS, Express, PostgreSQL, MongoDB, Redis" />
+</p>
+
+**Tools & quality**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,jest&theme=dark" alt="Docker, Git, GitHub Actions, Jest" />
+</p>
+
 ## Selected projects
 
 ### 01 · [ShopMind — AI-powered product discovery](https://github.com/luciusvie2712/shopmind)
@@ -67,6 +87,11 @@ A full-stack learning project with separate listener, administration, and REST A
 - [Konect](https://github.com/luciusvie2712/social-media-konect-fe) — React-based social application frontend prototype.
 
 ---
+
+## Connect
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/luciusvie2712)
+[![Projects](https://img.shields.io/badge/Explore-Projects-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/luciusvie2712?tab=repositories)
 
 **Interested in my engineering work?** Start with [ShopMind](https://github.com/luciusvie2712/shopmind) for backend and AI integration, or [FLUIVIX](https://github.com/luciusvie2712/Fashion-E-commerce-Website) for frontend architecture and user experience.
 
